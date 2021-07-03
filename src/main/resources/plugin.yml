@@ -1,0 +1,10 @@
+name: bv-Boxes
+version: ${project.version}
+main: pl.barthvisuals.bvboxes.Main
+api-version: 1.16
+author: BarthVisuals
+website: https://BarthVisuals.pl
+
+commands:
+  box:
+    aliases: [ 'boxes', 'case', 'cases', 'premiumcase', 'premiumcases' ]
